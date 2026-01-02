@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517183980930",
+    "project_id": "fir-beeda",
+    "storage_bucket": "fir-beeda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517183980930:android:7e035d2177d09e31857b9b",
+        "android_client_info": {
+          "package_name": "com.example.peretemuan14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWnI4HFcgHBjs9TIKvPvMbk35fn7DntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
